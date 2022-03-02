@@ -5,7 +5,11 @@ A new Flutter project. Using Flutter Version 2.
 Menggunakan fungsi statefull widget yaitu setstate untuk menambah menu dan merefresh menu ke awal
 
 ##Screenshot
-
-### Loading Screen
-Gambar 1
+###Gambar1
 <img src="https://raw.githubusercontent.com/anggasetiawanw/Tugas-Minggu2-CodeHouse-Academy/main/assets/ScreenShot/Screenshot%20(1).jpeg" width="200" height="395">
+###Gambar2
+<img src="https://raw.githubusercontent.com/anggasetiawanw/Tugas-Minggu2-CodeHouse-Academy/main/assets/ScreenShot/Screenshot%20(2).jpeg" width="200" height="395">
+###Gambar3
+<img src="https://raw.githubusercontent.com/anggasetiawanw/Tugas-Minggu2-CodeHouse-Academy/main/assets/ScreenShot/Screenshot%20(3).jpeg" width="200" height="395">
+###Gambar4
+<img src="https://raw.githubusercontent.com/anggasetiawanw/Tugas-Minggu2-CodeHouse-Academy/main/assets/ScreenShot/Screenshot%20(4).jpeg" width="200" height="395">
